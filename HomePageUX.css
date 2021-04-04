@@ -1,0 +1,45 @@
+.Home_banner
+{
+	width: 100%;
+	margin-top: 32px;
+	margin-bottom: 32px;
+	padding-top: 128px;
+	padding-bottom:128px;
+
+	
+	display: flex;
+
+}
+.banner_frame
+{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+.store
+{
+	margin-left: 16px;
+	margin-right: 16px;
+}
+
+.store_frame
+{
+	max-width: 1280px;
+	margin-bottom: 124px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.article
+{
+	margin: 8px;
+}
+img
+{
+	width: 100%;
+	height: auto;
+}
